@@ -37,6 +37,9 @@ model.roi_heads.box_predictor = FastRCNNPredictor(in_features, num_classes)
 ```
 
 <h3 align="left">📸 Visual Detection Results</h3>
+<img width="515" height="372" alt="image" src="https://github.com/user-attachments/assets/aeddb831-4467-49d3-a3a1-40a2b9c6cdc0" />
+<img width="515" height="372" alt="image" src="https://github.com/user-attachments/assets/6092a50d-9b68-4b2b-b45c-d6092dd0a6a1" />
+<img width="446" height="411" alt="image" src="https://github.com/user-attachments/assets/2b156b75-8dc8-472b-8d93-c92cad3e4ff4" />
 
 
 
@@ -62,3 +65,12 @@ Object Detection using <b>Faster R-CNN (ResNet50-FPN)</b> is powered by a robust
 🧠 Every library here plays a vital role — from feature extraction and region proposal to visualization and performance tracking.  
 🔗 Together, they enable an end-to-end detection pipeline that fuses computer vision and deep learning excellence.
 
+## 👤 Author
+
+**HOSEN ARAFAT**  
+
+**Software Engineer, China**  
+
+**GitHub:** https://github.com/arafathosense
+
+**Researcher: Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Image Processing**
