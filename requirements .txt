@@ -1,0 +1,15 @@
+# PyTorch & TorchVision (for Faster R-CNN)
+torch==2.1.0
+torchvision==0.18.1
+
+# Image processing
+opencv-python-headless==4.8.1.78
+Pillow==10.0.0
+numpy==1.25.0
+
+# Visualization
+matplotlib==3.8.1
+
+# Optional: for file handling & OS operations
+# (usually comes with Python, but added for completeness)
+os-sys==0.1.4
